@@ -1,2 +1,3 @@
 # imagedome
 imagedome
+HarmonyOSNext中图片image空间的介绍
